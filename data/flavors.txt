@@ -38,6 +38,7 @@ anime aesthetic
 antichrist
 apocalypse art
 apocalypse landscape
+architectural
 art
 art deco
 art on instagram
@@ -114,6 +115,7 @@ digitally enhanced
 diorama
 dramatic
 dramatic lighting
+dreamlike
 dslr
 dslr camera
 dutch golden age
@@ -158,6 +160,7 @@ glorious
 glowing lights
 glowing neon
 god rays
+golden hour
 golden ratio
 goth
 gothic
@@ -196,6 +199,7 @@ inspirational
 instax
 intricate
 intricate patterns
+intricately detailed
 iridescent
 irridescent
 iso 200
@@ -363,6 +367,7 @@ tilt shift
 tintype photograph
 toonami
 trance compilation cd
+translucent
 trypophobia
 ue5
 uhd image
@@ -375,6 +380,7 @@ unreal engine
 unreal engine 5
 vaporwave
 velvia
+vibrant
 vibrant colors
 vivid colors
 volumetric lighting
