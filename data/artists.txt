@@ -1046,6 +1046,7 @@ Dennis Ashbaugh
 Dennis Flanders
 Dennis H. Farber
 Dennis Miller Bunker
+Denys Lasdun
 Derek Chittock
 Derek Gores
 Derek Hill
@@ -1221,6 +1222,7 @@ Edwin G. Lucas
 Edwin Georgi
 Edwin Landseer
 Eero Järnefelt
+Eero Saarinen
 Eero Snellman
 Egbert van Heemskerck
 Egbert van der Poel
@@ -1240,6 +1242,7 @@ El Greco
 El Lissitzky
 Elaine Duillo
 Elaine Hamilton
+Eliane Monnin
 Elaine de Kooning
 Elbridge Ayer Burbank
 Eleanor Best
@@ -1422,6 +1425,7 @@ Fei Danxu
 Felice Casorati
 Felicity Charlton
 Felipe Seade
+Felix Candela
 Felix Octavius Carr Darley
 Felix-Kelly
 Feng Zhu
@@ -2469,6 +2473,7 @@ Jemima Blackburn
 Jenaro de Urrutia Olaran
 Jennifer Bartlett
 Jennifer Janesko
+Jennifer McCurdy
 Jenny Eakin Delony
 Jenny Saville
 Jens Ferdinand Willumsen
@@ -3061,6 +3066,7 @@ Lawrence Alma-Tadema
 Lawrence Calcagno
 Lawrence Harris
 Lawton S. Parker
+Le Corbusier
 LeConte Stewart
 LeRoy Neiman
 Leandro Erlich
@@ -3295,6 +3301,7 @@ Manuel Ortiz de Zarate
 Manuel Rendón Seminario
 Marc Bell
 Marc Chagall
+Marc Quinn
 Marc Simonetti
 Marc Tetro
 Marc-Aurèle de Foy Suzor-Coté
@@ -4069,6 +4076,7 @@ Raymond Teague Cowern
 Raúl Martínez
 Rebecca Guay
 Rebecca Horn
+Rebecca Louise Law
 Reginald Richard Redford
 Rei Kamoi
 Reinier Nooms
@@ -4321,6 +4329,7 @@ Sam Dillemans
 Sam Francis
 Sam Havadtoy
 Sam Spratt
+Sam Weber
 Samu Börtsök
 Samuel Birmann
 Samuel Colman
